@@ -1,0 +1,18 @@
+{
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Reflow Japanese",
+          "submenu": [
+            {
+              "label": "Reflow",
+              "command": "reflow-japanese:reflow"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
